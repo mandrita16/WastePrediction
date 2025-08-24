@@ -44,3 +44,13 @@ The tool can:
 ---
 
 ## 📂 Project Structure
+
+
+---
+
+## ⚙ Installation & Setup
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/mandrita16/WastePrediction.git
+cd WastePrediction

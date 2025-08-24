@@ -65,3 +65,21 @@ pip install -r requirements.txt
 ```bash
 python waste_predictor.py
 ```
+
+🧠 How It Works
+
+1. Fetch Data – Loads the dataset from a cloud URL
+
+
+2. Feature Engineering – Extracts month, day, weekend flag, and combines categories like city + season
+
+
+3. Find Similar Events – Matches historical events based on input parameters
+
+
+4. Predict Waste – Calculates expected waste & adjusts for customer count
+
+
+5. Classify & Alert – Assigns waste category, confidence, and alert flags
+
+

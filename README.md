@@ -66,7 +66,7 @@ pip install -r requirements.txt
 python waste_predictor.py
 ```
 
-🧠 How It Works
+## 🧠 How It Works
 
 1. Fetch Data – Loads the dataset from a cloud URL
 

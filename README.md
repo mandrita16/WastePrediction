@@ -54,3 +54,14 @@ The tool can:
 ```bash
 git clone https://github.com/mandrita16/WastePrediction.git
 cd WastePrediction
+```bash
+
+### 2️⃣ Install dependencies
+```bash
+pip install -r requirements.txt
+```bash
+
+### 3️⃣ Run the prediction script
+```bash
+python waste_predictor.py
+```bash

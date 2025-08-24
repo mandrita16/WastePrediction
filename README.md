@@ -36,3 +36,11 @@ The tool can:
 ---
 
 ## 🖼 Project Architecture
+- **Frontend:** Built for user interaction & visual presentation  
+- **Backend:** Python-based prediction engine using Pandas & NumPy  
+- **Dataset:** Hosted CSV with historical waste records  
+- **Deployment:** Vercel (Frontend), Python script for backend logic
+
+---
+
+## 📂 Project Structure
